@@ -38,5 +38,5 @@ So please take the following list withe the appropriate grain of salt 😄
 * Having to witness dozens of pitiful developers being tortured by having to code SQL statements for hundreds of [JEE Entity Beans](https://en.wikipedia.org/wiki/Enterprise_JavaBeans) with [bean managed persistence](https://www.oreilly.com/library/view/enterprise-javabeans-second/1565928695/ch06s02.html).
 * Bringing down whole clusters of banking servers by rather unconventional exception handling in a [static initialization block](https://www.baeldung.com/java-initialization#2-static-initialization-block).
 * Witnessing probably the biggest online [bond trade](https://en.wikipedia.org/wiki/Bond_market) in 2000, using a [Java Applet](https://en.wikipedia.org/wiki/Java_applet).
-* Consulting french customers on [Linux](https://en.wikipedia.org/wiki/HP-UX) and [Databases](https://bitsavers.trailing-edge.com/pdf/hp/9000_hpux/1991-200x/199709_36389-90016_Up_and_Running_with_ALLBASE_SQL.pdf) in such annoying french that these poor people voluntarily talk german.
+* Consulting french customers on [Linux](https://en.wikipedia.org/wiki/HP-UX) and [Databases](https://bitsavers.trailing-edge.com/pdf/hp/9000_hpux/1991-200x/199709_36389-90016_Up_and_Running_with_ALLBASE_SQL.pdf) in such annoying french that these poor people voluntarily talked german.
 
