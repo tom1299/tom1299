@@ -25,7 +25,7 @@ Currently I am working as a software developer on the migrating of legacy system
 * Configuring various [CNCF projects](https://www.cncf.io/projects/) like [helm](https://www.cncf.io/projects/helm/), [flux](https://www.cncf.io/projects/flux/) or [keda](https://www.cncf.io/projects/keda/).
 
 Besides that I also try to contribute to the Open Source community whenever possible. Mostly documentation or bug fixes like my least [pull request](https://github.com/aquasecurity/trivy-operator/pull/2353) for the [trivy-operator](https://github.com/aquasecurity/trivy-operator).  
-I also have a strong interest in AI and Machine Learning, working with [Tensorflow](https://www.tensorflow.org/), [Open AI](https://openai.com/) and [GitHubs Copilot](https://copilot.github.com/).
+I also have a strong interest in AI and Machine Learning, working with [Tensorflow](https://www.tensorflow.org/), [Open AI](https://openai.com/), [GitHubs Copilot](https://copilot.github.com/) and [Claude Code](https://claudecode.io/). See my experimental project [karo](https://github.com/tom1299/karo) which serves as a test case for developing an application mostly by prompting these tools.
 
 #### What I've done (and witnessed)
 ---
